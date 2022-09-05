@@ -1,0 +1,52 @@
+.h3{
+    color:white;
+}
+.h3:hover{
+    color:coral;
+}
+#nav-1 > li{
+    margin-right: 30px;
+}
+
+
+#sec-1{
+    display: grid;
+    grid-template-columns: 10% 90%;
+    height:1000px;
+}
+
+
+#sec-2{
+   height:1000px;
+}
+#child-1:hover{
+    color:red;
+}
+#child-0:hover{
+    color:blue;
+}
+#child-2:hover{
+    color:red;
+}
+#child-3:hover{
+    color:red;
+}
+#child-4:hover{
+    color:red;
+}
+
+#sec-3{
+    height: 800px;
+    width:auto;
+}
+
+#sec-4{
+    height:200px;
+    
+}
+
+#img{
+    width:100px;
+    height:50px
+}
+
